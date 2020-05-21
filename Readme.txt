@@ -1,4 +1,4 @@
-ASU ID: 1217678787
+
 Name: Viraj Savaliya
 
 The project submission contains 4 .c files, 3 .h files and a Makefile.
